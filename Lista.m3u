@@ -1,0 +1,63 @@
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU" audio-track="spa,rus,eng",Latina
+https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b23659418796712a765e0664&sid=ba5t1l1xb213732992336712a76695051&ndvc=0
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Willax" tvg-name="Willax" tvg-logo="https://storage.googleapis.com/web-willax-assets/migrated/2018/07/willax-tv2.jpg" group-title="PERU" audio-track="spa,rus,eng",Willax
+https://live-c.cf.dmcdn.net/sec2(b9zc5oV42hzU_Jx0QeRpKtbtVRvk9qA1KpnM7UvagexyDE1WHmAqfBOFnxLfC8DkbDuMc-VwtLQyGDgTYeCJrOoBzWsJwpeS_LlHAPXwOBqI-lWaXjQJQaPZ59eqfET3)/dm/3/x7x4dgx/s/live-480.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="ATV" tvg-name="ATV" tvg-logo="https://pbs.twimg.com/profile_images/1333469705777127427/vhblqtWD_400x400.jpg" group-title="PERU" audio-track="spa,rus,eng",ATV
+https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_480p/chunks.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="ATV +" tvg-name="ATV +" tvg-logo="https://pbs.twimg.com/profile_images/1333469705777127427/vhblqtWD_400x400.jpg" group-title="PERU" audio-track="spa,rus,eng",ATV +
+https://d1svme839xkbsn.cloudfront.net/live2/alba-pe-atv-atvmas_480p/chunks.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="TV Peru" tvg-name="TV Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TV_Per%C3%BA_-_2019_logo.png" group-title="PERU" audio-track="spa,rus,eng",TV Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Record" tvg-name="Record" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png" group-title="Brasil" audio-track="spa,rus,eng",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Record News" tvg-name="Record News" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7013-1071_import.png" group-title="Brasil" audio-track="spa,rus,eng",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="SBT" tvg-name="SBT" tvg-logo="https://e7.pngegg.com/pngimages/488/83/png-clipart-brazil-sistema-brasileiro-de-televisao-music-television-network-sbt-rs-subscribe-television-text.png" group-title="Brasil" audio-track="spa,rus,eng",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 01" tvg-name="Codegeass 01" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 01
+https://download1591.mediafire.com/3pu8lxlgplrgmxYAkJqCrM2_uajb5dy9cRx8zmanzY1pnGzebx3uXlEp0ol4dJME-Dl0AP2Zh_champi4NYMInvcWM7gtQq0RdxWVzEa5HWrx9pwU2Z8RZdCY57J0PaEKyMhOBV9aJD5jhWNfjmEoO4v0UPY8r0IpoVOm-Wf7SDpYH8/eoadj2ljuynpk66/CGeass+-+01.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 02" tvg-name="Codegeass 02" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 02
+https://download843.mediafire.com/n3ue2y2jeoeg-m1vYCYS1PfiG6XNfhMiVB5tKGMYZOIjo-YCqoWIwYVS3sAUbyPE9m_bPvMa7ZStTyTr0TD2emQDlgl9YvnGjqPiWMoW87VrRi1_mAF5MDRaGQ8mpAAqrP8rc7dV-dZ7E81_Vt1TYWZUBcFlcA7OgGgNazZM60PU6fE/e15zu4gm9fbzxqy/CGeass+-+02.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 03" tvg-name="Codegeass 03" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 03
+https://download853.mediafire.com/8xacds4kuklg6mXo_AkdNqZ07KXPqThvJdnFdvt3Y9fGd1I_a_EXiTUtCs1xnBxM5fQTAKHWfKY0NaC2Xzl0GEJAWcMMO7YT9JjRtfeyyrIu1AOQd6fSHOnGEqqAI6ab7x4H5TIBRcX6WWD-su4Yf0q_7QYUDPMMIT4MozW-kMTwgUQ/ijqj7mjz5sx5m3d/CGeass+-+03.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 04" tvg-name="Codegeass 04" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 04
+https://download1587.mediafire.com/dgs7pq6s5jcgJY6ZLA9AfUdlN5K2QxGsZVdm8BI8JvxUhTVzjk-35HWvAr2spnp_AojdyVdAJWYoe0MTDEPcE_dolzuOENJ-PcAouCMq4zL8NJzO3xCJ0H4_IM-K4F_-ktVkk98_fDWZ2-8rx2AAGD06oSvoD8VPSZTWn3FaFmaGmtU/damsagit35e3vnp/CGeass+-+04.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 05" tvg-name="Codegeass 05" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 05
+https://download1580.mediafire.com/m29oyoeohgagc8l0SkiM2mnD-4RA_44wlyn5IaNQ7LdcWm3KI0CdlmtVv0kyLPyJ4IodcZsjRY7fG3A3SrxqAfLqs6o_cULQCR1q8xHOy2Y6VJqnTDFSXmFtrvoHTYRkYhwy9xcpDc1oI-lBG8dTNUS1j43S7SIWHU0I-CQIxYeRc_g/krunhi4yc1ec9l9/CGeass+-+05.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 06" tvg-name="Codegeass 06" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 06
+https://download1500.mediafire.com/jfw8cujflekgK5_ypbkOCCqj7CgvpSiQvRulP9iiF4M0-jvC2yiWaoriBeqcLQxpOFptQ4QvW2nj0o2JCHD8p1E5G1NONfAewezYXDyfQq8cUubjNaT23v6O2UpsAIyFUtIhRy_JDeVEnSHy1ZpYUS7GIUqWAMu9bQyvUBMfvC1ru84/5izg2vwfdnin3f5/CGeass+-+06.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 07" tvg-name="Codegeass 07" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 07
+https://download937.mediafire.com/05kdzu6o12zgVp1VKdcIJVh0FvNcw_Xk9V-DWiAHbw8LKDE_tAW22RY7e61uaaK549yJNyKlYCVCqcd3EPwtcfkLHpZSMix3DYDqzG_MJXHdJyWMxh7Guaxi0ouVRDz6HdfaFgMD2F5I3zefCJ_2NiY8XdB_oi9R12V26_tK19s08K0/8k97ddldh6ymi22/CGeass+-+07.mp4
+
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Codegeass 08" tvg-name="Codegeass 08" tvg-logo="https://monoschinos2.com/thumbs/portada/Code-Geass.jpg" group-title="Code geass" audio-track="spa,rus,eng",Codegeass 08
+https://download850.mediafire.com/i5ww9gzvnf5gHnqMstSqsP9_6qWfvugbRcwEcA9E_SP5NHjSszUVWmeLhyRyV-o7Q_3wbmz94tLXDVojUoQ89vmceAVoLywYF1D7M-aYlQWVZb2lrNi-n-wSfTsz59UaHW3fRjsJZRDAQ_LC_pm9fhUQclDwiVGQhQhrOvEwKwEKj1Y/25sotm4uuty5y6k/CGeass+-+08.mp4
